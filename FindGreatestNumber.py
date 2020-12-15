@@ -16,3 +16,11 @@ num3 = int(input("Enter the third number:"))
 
 largest = greatest(num1, num2, num3)
 print(largest,"is the largest number among the given input numbers.")
+
+'''Output:
+Enter the first number:20
+Enter the second number:10
+Enter the third number:15
+20 is the largest number among the given input numbers.
+
+Process finished with exit code 0'''
